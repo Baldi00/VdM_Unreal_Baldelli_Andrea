@@ -12,7 +12,7 @@ TBD
 |UI|Initial menu<br>Pause Menu<br>InGame UI<br>Scenes fade|🔴<br>🔴<br>🔴<br>🔴|
 |Level Building|DBGA Game Programming Room|🟢|
 |Lighting|Lumen|🟢|
-|Sounds|Ambient noise<br>Kitchen music<br>Interaction sound FXs<br>Audio mixer sliders|🔴<br>🔴<br>🔴<br>🔴|
+|Sounds|Ambient noise<br>Kitchen music<br>Interaction sound FXs<br>Audio mixer sliders|🟢<br>🟢<br>🟢<br>🔴|
 |VFX|God Rays<br>Hand washer water<br>Explosive PC sparks|🔴<br>🔴<br>🔴|
 |Interactions|Doors<br>PCs<br>TVs<br>Blackboard<br>Dispensers<br>Microwave<br>Hand washer<br>Air Dryer<br>WCs<br>Giovanni's Button<br>PC explosion|🟢<br>🟢<br>🔴<br>🟢<br>🟢<br>🟢<br>🔴<br>🟢<br>🔴<br>🔴<br>🔴|
 |Camera|First person camera|🟢|
